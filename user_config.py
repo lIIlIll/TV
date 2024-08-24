@@ -1,0 +1,33 @@
+[Settings]
+open_update = True
+open_use_old_result = True
+source_file = "config/user_demo.txt"
+final_file = "output/user_result.txt"
+source_channels = CCTV-1,CCTV-2,CCTV-3,CCTV-4,CCTV-5,CCTV-5+,CCTV-6,CCTV-7,CCTV-8,CCTV-9,CCTV-10,CCTV-11,CCTV-12,CCTV-13,CCTV-14,CCTV-15,CCTV-16,CCTV-17,安徽卫视,浙江卫视,湖南卫视,北京卫视,东方卫视,东南卫视,河南卫视,江苏卫视,山东卫视,天津卫视,翡翠台,明珠台,凤凰中文
+	
+open_online_search = False
+online_search_page_num = 5
+urls_limit = 12
+open_keep_all = False
+open_sort = True
+response_time_weight = 0.5
+resolution_weight = 0.5
+recent_days = 14
+ipv_type = ipv4
+domain_blacklist = epg.pw
+	
+url_keywords_blacklist = 
+	
+open_subscribe = True
+subscribe_urls = https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt,https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt
+	
+open_multicast = True
+multicast_region_list = 安徽移动
+multicast_page_num = 6
+open_proxy = False
+open_driver = False
+open_hotel = True
+open_hotel_tonkiang = False
+open_hotel_fofa = False
+hotel_region_list = 安徽
+hotel_page_num = 5
