@@ -22,7 +22,7 @@ open_subscribe = True
 subscribe_urls = https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt,https://mirror.ghproxy.com/https://raw.githubusercontent.com/qingwen07/awesome-iptv/main/tvbox_live_all.txt
 	
 open_multicast = True
-multicast_region_list = 安徽移动
+multicast_region_list = 安徽
 multicast_page_num = 6
 open_proxy = False
 open_driver = False
