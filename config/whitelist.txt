@@ -2,3 +2,37 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+# 这是接口或订阅源的白名单，白名单内的接口或订阅源获取的接口将不会参与测速，优先排序至结果最前。
+# 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
+# This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
+# Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+CCTV-1,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8,
+CCTV-2,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv2/1.m3u8,
+CCTV-3,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8,
+CCTV-4,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-4/1.m3u8,
+CCTV-5,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-5/1.m3u8,
+CCTV-5+,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv05plus/1.m3u8,
+CCTV-6,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv6/1.m3u8,
+CCTV-7,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-7/1.m3u8,
+CCTV-8,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8,
+CCTV-9,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv9/1.m3u8,
+CCTV-10,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-10/1.m3u8,
+CCTV-11,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-11/1.m3u8,
+CCTV-12,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-12/1.m3u8,
+CCTV-13,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-13/1.m3u8,
+CCTV-14,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-14/1.m3u8,
+CCTV-15,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/cctv-15/1.m3u8,
+CCTV-16,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8,
+CCTV-17,http://120.210.193.151:8006/120000001002/XMTcctv-17hd/index.m3u8,.
+安徽卫视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-anhuistv/1.m3u8,
+安徽国际,http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8,
+安徽经济生活,http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8,
+安徽科教,http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8,
+安徽综艺体育,http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8,
+安徽公共,http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8,
+安徽影视,http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8,
+安徽导视,http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/XMTahds/1.m3u8,
+睛彩安徽,http://120.210.193.151:8006/120000001002/XMTjcah/index.m3u8,
+海豚健康,http://120.210.193.151:8006/120000001002/XMThtjk/1.m3u8,
+海豚影视,http://120.210.193.151:8006/120000001002/XMThtys/1.m3u8,
+海豚少儿,http://120.210.193.151:8006/120000001002/XMThtse/1.m3u8,
