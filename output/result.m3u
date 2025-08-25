@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV1
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8$!安徽移动
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV1
 http://112.27.235.94:8000/hls/1/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV1
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8$!安徽移动
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv1/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV2" tvg-logo="https://livecdn.zbds.org/logo/CCTV2.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV2
@@ -18,15 +18,15 @@ http://112.27.235.94:8000/hls/3/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV3" tvg-logo="https://livecdn.zbds.org/logo/CCTV3.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV3
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv3/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV4" tvg-logo="https://livecdn.zbds.org/logo/CCTV4.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv4sd/index.m3u8$!安徽移动
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4" tvg-logo="https://livecdn.zbds.org/logo/CCTV4.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4
 http://112.27.235.94:8000/hls/4/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4" tvg-logo="https://livecdn.zbds.org/logo/CCTV4.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv4sd/index.m3u8$!安徽移动
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV4" tvg-logo="https://livecdn.zbds.org/logo/CCTV4.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/CCTV4/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV5" tvg-logo="https://livecdn.zbds.org/logo/CCTV5.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV5
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/index.m3u8$!安徽移动
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5" tvg-logo="https://livecdn.zbds.org/logo/CCTV5.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV5
 http://112.27.235.94:8000/hls/5/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV5" tvg-logo="https://livecdn.zbds.org/logo/CCTV5.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV5
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/index.m3u8$!安徽移动
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV5" tvg-logo="https://livecdn.zbds.org/logo/CCTV5.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV5
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/CCTV5/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV5+" tvg-logo="https://livecdn.zbds.org/logo/CCTV5+.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV5+
@@ -54,21 +54,21 @@ http://112.27.235.94:8000/hls/9/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV8" tvg-logo="https://livecdn.zbds.org/logo/CCTV8.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV8
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv8/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV9" tvg-logo="https://livecdn.zbds.org/logo/CCTV9.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV9
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv9hd4mc/index.m3u8$!安徽移动
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV9" tvg-logo="https://livecdn.zbds.org/logo/CCTV9.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV9
 http://112.27.235.94:8000/hls/10/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV9" tvg-logo="https://livecdn.zbds.org/logo/CCTV9.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV9
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv9hd4mc/index.m3u8$!安徽移动
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV9" tvg-logo="https://livecdn.zbds.org/logo/CCTV9.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV9
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-8M-1080P-cctv9/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV10
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/index.m3u8$!安徽移动
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV10
 http://112.27.235.94:8000/hls/11/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV10
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/index.m3u8$!安徽移动
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV10" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV10
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/CCTV10/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV11" tvg-logo="https://livecdn.zbds.org/logo/CCTV11.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV11
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8$!安徽移动
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV11" tvg-logo="https://livecdn.zbds.org/logo/CCTV11.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV11
 http://112.27.235.94:8000/hls/12/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV11" tvg-logo="https://livecdn.zbds.org/logo/CCTV11.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV11
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8$!安徽移动
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV11" tvg-logo="https://livecdn.zbds.org/logo/CCTV11.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV11
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/CCTV11/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV12" tvg-logo="https://livecdn.zbds.org/logo/CCTV12.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV12
@@ -90,9 +90,9 @@ http://112.27.235.94:8000/hls/15/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV14" tvg-logo="https://livecdn.zbds.org/logo/CCTV14.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV14
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/CCTV14/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV15" tvg-logo="https://livecdn.zbds.org/logo/CCTV15.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV15
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8$!安徽移动
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV15" tvg-logo="https://livecdn.zbds.org/logo/CCTV15.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV15
 http://112.27.235.94:8000/hls/16/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV15" tvg-logo="https://livecdn.zbds.org/logo/CCTV15.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV15
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8$!安徽移动
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV15" tvg-logo="https://livecdn.zbds.org/logo/CCTV15.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV15
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/CCTV15/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="https://livecdn.zbds.org/logo/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
@@ -100,24 +100,24 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV16" tvg-logo="https://livecdn.zbds.org/logo/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://livecdn.zbds.org/logo/CCTV17.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV17
-http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4mc/index.m3u8$!安徽移动
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://livecdn.zbds.org/logo/CCTV17.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV17
 http://120.210.193.151:8006/120000001002/XMTCCTV17hd/index.m3u8.
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://livecdn.zbds.org/logo/CCTV17.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV17
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4mc/index.m3u8$!安徽移动
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV4K" tvg-logo="https://livecdn.zbds.org/logo/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4K
 http://120.210.193.151:8006/120000000058/G_CCTV4K-HD/index.m3u8$!安徽移动
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV8K" tvg-logo="https://livecdn.zbds.org/logo/CCTV8K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV8K
 undefined
 #EXTINF:-1 group-title="央视频道" tvg-name="CETV1" tvg-logo="https://livecdn.zbds.org/logo/CETV1.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV1
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy1thd/index.m3u8$!安徽移动
-#EXTINF:-1 group-title="央视频道" tvg-name="CETV-1" tvg-logo="https://livecdn.zbds.org/logo/CETV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV-1
+#EXTINF:-1 group-title="央视频道" tvg-name="CETV1" tvg-logo="https://livecdn.zbds.org/logo/CETV-1.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV-1
 http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/jiaoyutv/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CETV2" tvg-logo="https://livecdn.zbds.org/logo/CETV2.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV2
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cetv2hd4mc/index.m3u8$!安徽移动
-#EXTINF:-1 group-title="央视频道" tvg-name="CETV-2" tvg-logo="https://livecdn.zbds.org/logo/CETV-2.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV-2
+#EXTINF:-1 group-title="央视频道" tvg-name="CETV2" tvg-logo="https://livecdn.zbds.org/logo/CETV-2.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV-2
 http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CETV4" tvg-logo="https://livecdn.zbds.org/logo/CETV4.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV4
 http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy4hd8m/index.m3u8$!安徽移动
-#EXTINF:-1 group-title="央视频道" tvg-name="CETV-4" tvg-logo="https://livecdn.zbds.org/logo/CETV-4.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV-4
+#EXTINF:-1 group-title="央视频道" tvg-name="CETV4" tvg-logo="https://livecdn.zbds.org/logo/CETV-4.png" epg-url="http://epg.51zmt.top:8000/e.xml",CETV-4
 http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CGTN" tvg-logo="https://livecdn.zbds.org/logo/CGTN.png" epg-url="http://epg.51zmt.top:8000/e.xml",CGTN
 http://112.27.235.94:8000/hls/17/index.m3u8
