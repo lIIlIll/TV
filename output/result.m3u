@@ -176,15 +176,15 @@ http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4m
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV17" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV17
 http://120.210.193.151:8006/120000000058/G_CCTV-17-HQ/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4K
+http://120.210.193.151:8006/120000000058/G_CCTV-4K-HD/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4K
+http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4K
+http://www.520345.xyz:8188/rtp/239.69.1.111:10304
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4K
+http://117.174.25.254:8188/rtp/239.0.0.184:5140
 #EXTINF:-1 group-title="央视频道" tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4K
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4K
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4K
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4K
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4K
-#EXTINF:-1 group-title="央视频道" tvg-name="CCTV4K" tvg-logo="https://tb.zbds.top/logo/CCTV4K.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4K
+http://219.140.5.23:8888/rtp/239.69.1.111:10304
 #EXTINF:-1 group-title="央视频道" tvg-name="CGTN" tvg-logo="https://tb.zbds.top/logo/CGTN.png" epg-url="http://epg.51zmt.top:8000/e.xml",CGTN
 http://120.210.193.151:8006/120000000058/G_CCTV-NEWS/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJCbOMI3h%2Br8A%2FQfTrsQVvd6LA%2FS%2BeECRiSWKUJKDid8sudCI6RTgkYF5aBjZnToW2E7hM6hTpSfd%2FELgvRzd%2Fxc%3D&CheckLevel=2
 #EXTINF:-1 group-title="央视频道" tvg-name="CGTN" tvg-logo="https://tb.zbds.top/logo/CGTN.png" epg-url="http://epg.51zmt.top:8000/e.xml",CGTN
