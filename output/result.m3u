@@ -569,12 +569,12 @@ http://120.210.193.151:8006/120000001002/XMTdzdy/1.m3u8$!安徽移动
 http://120.210.193.151:8006/120000001002/XMTdzdy/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJK3%2FsnhlhjXv4cJWfd%2F1%2FJ5lYpz%2BKIVmiJvZWxWEyThWmmZ6WmmmqwRqx8dOyjPx2hI5JF7UUCZCOORWTRWJdRg%3D&CheckLevel=2
 #EXTINF:-1 group-title="单项频道" tvg-name="CHC高清电影" tvg-logo="https://tb.zbds.top/logo/CHC高清电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",CHC高清电影
 http://120.210.193.151:8006/120000001002/XMTgqdy/1.m3u8$!安徽移动
+#EXTINF:-1 group-title="单项频道" tvg-name="CHC高清电影" tvg-logo="https://tb.zbds.top/logo/CHC高清电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",CHC高清电影
+http://120.210.193.151:8006/120000001002/XMTgqdy/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJP4ZkDr6%2FcX7af%2BYlWeeYuktq94MpZiC2knSlfy7d9ZUnHEMl8tYpy6O73ppd%2BmDv21sTiclQCXlLa3mKpjtYDs%3D&CheckLevel=2
 #EXTINF:-1 group-title="单项频道" tvg-name="CHC家庭影院" tvg-logo="https://tb.zbds.top/logo/CHC家庭影院.png" epg-url="http://epg.51zmt.top:8000/e.xml",CHC家庭影院
 http://120.210.193.151:8006/120000001002/XMTjtyy/1.m3u8$!安徽移动
 #EXTINF:-1 group-title="单项频道" tvg-name="CHC家庭影院" tvg-logo="https://tb.zbds.top/logo/CHC家庭影院.png" epg-url="http://epg.51zmt.top:8000/e.xml",CHC家庭影院
 http://120.210.193.151:8006/120000001002/XMTjtyy/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJGEc9XDB1diSlCdYDkQUX5NxonXUZL9uUPJoqHtzpZn%2BFx9gzSaiJYdErblVVMpNPFPo5qIu7V0jX032WhaKyHY%3D&CheckLevel=2
-#EXTINF:-1 group-title="单项频道" tvg-name="CHC影迷电影" tvg-logo="https://tb.zbds.top/logo/CHC影迷电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",CHC影迷电影
-http://120.210.193.151:8006/120000001002/XMTgqdy/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJP4ZkDr6%2FcX7af%2BYlWeeYuktq94MpZiC2knSlfy7d9ZUnHEMl8tYpy6O73ppd%2BmDv21sTiclQCXlLa3mKpjtYDs%3D&CheckLevel=2
 #EXTINF:-1 group-title="单项频道" tvg-name="茶" tvg-logo="https://tb.zbds.top/logo/茶.png" epg-url="http://epg.51zmt.top:8000/e.xml",茶
 http://120.210.193.151:8006/120000001002/XMTcha/index.m3u8?AuthInfo=ElLrq4nJhR7FlwWjzqqJJA7bbgRVcYfGiTNbFmBnmydvhRq0FeSvGAVFc3Vivxh7NksazMbnPjp3jdqstJQr%2Fm9Iuu6SEsUEm0x9PW%2FnapQ%3D&CheckLevel=2
 #EXTINF:-1 group-title="单项频道" tvg-name="超级电视剧" tvg-logo="https://tb.zbds.top/logo/超级电视剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",超级电视剧
